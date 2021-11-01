@@ -1,6 +1,6 @@
 .menu {
   /* add correct code to place the menu correctly.*/
-
+display: flex;
   justify-content: center;
   background-color: black;
   font-size: 30px;
@@ -17,7 +17,7 @@ body {
 
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-evenly;
+ /* justify-content: space-evenly; */
   font-family: sans-serif;
 }
 
